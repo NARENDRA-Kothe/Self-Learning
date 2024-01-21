@@ -1,0 +1,7 @@
+/* Que.:- What is the difference between var, let, and const?
+Ans.:-  
+VAR - var can be re-declared & defined. Var is a global scope variable.
+
+LET -  let can not be re-declared but can be defined. Let is a block scope variable.
+
+CONST - const can not be re-declared or not defined. Const is a block scope variable. */
