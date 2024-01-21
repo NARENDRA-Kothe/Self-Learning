@@ -1,0 +1,21 @@
+
+/* Que.: What is the data type?
+Ans.: datatype is an identified type of data.*/
+
+/* 
+Que: How many data types?
+
+Primitive Data Type
+String- (type of string)
+Number- (type of number)
+Boolean - (type of boolean)
+Null - (type of Object)
+Undefined - (type of Undefined)
+BigInt (type of BigInt )
+
+Non Primitive Data Type
+Array (type of object), 
+Function (type of object), 
+Object (type of function object).
+*/ 
+
